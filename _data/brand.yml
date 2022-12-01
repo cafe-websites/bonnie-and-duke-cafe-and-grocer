@@ -1,0 +1,6 @@
+name: Bonnie & Duke Cafe and Grocer
+description:
+color_profile: dark  # options: light, dark, pink
+font_profile: futuristic  # options: futuristic, rustic, cursive, formal
+accent_color: "#D78D30"
+permanent_nav_background: false
